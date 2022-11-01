@@ -1,1 +1,2 @@
-# PRJ301-Java-web-application-assignment
+# PRJ301-Assignment 
+Build a simple JavaEE Web application using MVC2 model.
